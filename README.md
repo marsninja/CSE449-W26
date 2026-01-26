@@ -66,6 +66,28 @@ This course is structured as a hands-on, project-based experience centered on bu
 | **Week 14 (4/13)** | Mini lecture, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri |
 | **Week 15 (4/20)** | REFLECTION WEEK, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri (Last week, classes end Apr 21) |
 
+# Notes
+
+* **MVP Pitch Week (Week 10)** — This is where launch grants are awarded, ranging from hundreds to thousands of dollars based on the quality and potential of your product. Come prepared to impress. This funding is thanks due to the NSF POSE program. 
+
+* **Launch Week (Week 12)** — Go live. This is when you push the button on your digital marketing campaign and release your product to real users.
+
+* **Reflection Week (Week 15)** — A recap of the semester: what you built, what worked, what you learned, and what you'd do differently.
+
+* **Weekly Updates** — Each group update should be 3–5 slides covering your progress, blockers, and next steps.
+
+# Tips for the Journey
+
+* **Design early** — Use any tool (Figma, Canva, whiteboard, napkin sketch, etc.). The tool doesn't matter, starting does. Having a visual reference early aligns your team on what you're building and saves you from costly mid-semester pivots. Don't overthink it — a rough wireframe beats no wireframe every time.
+
+* **Identify your hook** — Decide on the one standout feature you'll market first. Lead with what grabs attention. This is the feature that makes someone stop scrolling and say "I want to try that." Your marketing campaign will revolve around it, so pick something compelling and make sure it works flawlessly.
+
+* **Nail the happy path** — Define the golden end-to-end workflow and make it rock-solid before branching out. Map the exact steps a user takes from opening your product to getting value out of it. That core flow should feel seamless. Edge cases and extra features come later, if your happy path is broken, nothing else matters.
+
+* **Build early, build often** — Don't wait until the design is perfect. Get code running as soon as possible. A working prototype with rough edges teaches you more than a polished spec that hasn't been tested. You'll discover the real problems (and the real opportunities) only once something is running.
+
+* **Ship something every week** — Aim to have a working version at all times, no matter how rough. Treat every Monday update as a mini-launch. This forces incremental progress, keeps your team accountable, and means you're never more than a week away from a demo-ready state. The teams that ship weekly are the ones that launch successfully.
+
 
 # Grading
 
