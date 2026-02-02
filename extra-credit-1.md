@@ -1,4 +1,4 @@
-# Extra Credit Assignment 1: Jac Todo App + Custom Feature
+# Extra Credit Assignment 1: Jac Tutorial + Custom Feature
 
 **Points**: 1% for completion, Up to 3% Extra Credit for going above and beyond. 
 **Due**: Feb. 9th, 2026
