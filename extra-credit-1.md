@@ -103,15 +103,13 @@ Submit the following on Canvas:
 
 ---
 
-## Grading Rubric
+## Expectations
 
-| Criteria | Points |
-| :--- | :--- |
-| **Tutorial completion** -- App runs and includes all functionality from Parts 1-3 of the tutorial (todo CRUD, AI integration, authentication) | 40% |
-| **Custom feature implementation** -- Feature is functional, non-trivial, and integrates cleanly with the existing app | 35% |
-| **Code quality** -- Code is readable, well-organized, and follows patterns established in the tutorial | 10% |
-| **README and documentation** -- Repository README clearly describes the feature, how to run the app, and where to find relevant code | 10% |
-| **Creativity and ambition** -- Feature goes beyond a minimal addition and shows genuine engagement with the Jac ecosystem | 5% |
+- **Tutorial completion** -- App runs and includes all functionality from Parts 1-3 of the tutorial (todo CRUD, AI integration, authentication)
+- **Custom feature implementation** -- Feature is functional, non-trivial, and integrates cleanly with the existing app
+- **Code quality** -- Code is readable, well-organized, and follows patterns established in the tutorial
+- **README and documentation** -- Repository README clearly describes the feature, how to run the app, and where to find relevant code
+- **Creativity and ambition** -- Feature goes beyond a minimal addition and shows genuine engagement with the Jac ecosystem (This is where 2-3% EC becomes achievable)
 
 ---
 
