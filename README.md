@@ -109,7 +109,7 @@ This is a very ‘do based’ course as opposed to ‘study based’. A signific
 
 **Additional Extra Credit Opportunity**: Up to 20% Extra Credit
 
-- [Extra Credit 1: Jac Tutorial + Custom Feature](extra-credit-1.md) (up to 5%)
+- [Extra Credit 1: Jac Tutorial + Custom Feature](extra-credit-1.md) (up to 3%)
 
 
 
