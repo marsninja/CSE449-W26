@@ -14,7 +14,7 @@ In the creation of these virtual assistants, students will form groups of around
 
 **Instructor**: Jason Mars ([profmars@umich.edu](mailto:profmars@umich.edu) / [http://www.jasonmars.org](http://www.jasonmars.org))
 
-**GSI**: Peter Yu (jayanaka@umich.edu)
+**GSI**: Jayanaka Dantanarayana (jayanaka@umich.edu)
 
 **Lecture**: MW 1:30-3, In-Person / 1311 EECS
 
@@ -22,13 +22,8 @@ In the creation of these virtual assistants, students will form groups of around
 
 **Prerequisites**: EECS 280, EECS 281
 
-**Office** **Hours**: On Demand
+**Office** **Hours**: 4129 Lien. 3-4 PM Tues/Thurs (GSI or Prof avail)
 
-**GSI Office Hours**: TBA
-
-**Course Discord:** TBA
-
-**Recorded Lectures**: See Canvas
 
 # What to Expect This Semester
 
