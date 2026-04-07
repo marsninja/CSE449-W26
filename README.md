@@ -93,7 +93,8 @@ This is a very ‘do based’ course as opposed to ‘study based’. A signific
 - Technical implementation and AI integration (Codebase, agentic AI, system design): 20%  
 - Product design, usability, and completeness: 10%  
 - In-semester group update presentations (slides, demos, clarity, progress): 15%  
-- Digital marketing campaign strategy and execution: 10%  
+- Digital marketing campaign strategy and execution: 10%
+  - Landing Page and Demo Video
 - Final launch quality, public release, and final presentation/demo: 15%
 
 
